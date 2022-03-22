@@ -1,0 +1,29 @@
+.form {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.form-container {
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.password {
+  display: flex;
+  align-items: center;
+}
+
+.passIcon {
+  width: 50px;
+  height: 50px;
+  margin: 0 10px;
+}
+
+.button {
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 10%;
+}
